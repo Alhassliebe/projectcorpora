@@ -1,5 +1,8 @@
 # projectcorpora  
 
+Это проект 4 студенток НИУ ВШЭ, в результате которого был создан тематический веб-корпус поиска анекдотов.  
+[Презентация о проделанной работе с примером работы корпуса.](https://docs.google.com/presentation/d/1h-Sbip529fyZR3VRWMraxEZYQzSoUXPhDzfuEvKfaGc/edit?usp=sharing)
+
 ### • data_to_db.py  
 В данном файле происходит парсинг сайтов с анекдотами и сохранение информации о них в базе данных anecdote.db
 
@@ -13,4 +16,4 @@
   3. **words** с инф-й о словах (text_id, sent_id, word_id - номер слова в предложении, word - слово, lemma - лемма, pos - часть речи)
 
 ### • project_nlp
-Веб-приложение нашего корпуса, [ссылка](http://nlpsuper228.pythonanywhere.com)
+Веб-приложение нашего корпуса, [ссылка](http://nlpsuper228.pythonanywhere.com) _(на данный момент не работает)_
